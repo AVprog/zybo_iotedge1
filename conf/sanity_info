@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/sav44/work/yocto19/build/tmp
+SSTATE_DIR /home/sav44/work/yocto19/build/sstate-cache
+NATIVELSBSTRING ubuntu-18.04

@@ -1,0 +1,9 @@
+#
+# Configuration for CONFIG_MY1_TIMER
+#
+
+config MY1_TIMER
+	tristate "MY1TIMER very good"
+	default m
+	help
+	  my first timer driver AAAAAAAAAAAAA
